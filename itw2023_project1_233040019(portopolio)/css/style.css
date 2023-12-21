@@ -230,9 +230,6 @@ nav ul li a {
   border-radius: 0.5rem;
 }
 
-.service-icon svg {
-  fill: red;
-}
 
 .service-icon {
   background: var(--thirdBackgroundColor);
